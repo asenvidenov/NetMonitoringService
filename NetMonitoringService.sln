@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMonitoringService", "NetMonitoringService.csproj", "{063FE5A1-64B3-4793-8ABE-467F883FAE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063FE5A1-64B3-4793-8ABE-467F883FAE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063FE5A1-64B3-4793-8ABE-467F883FAE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063FE5A1-64B3-4793-8ABE-467F883FAE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063FE5A1-64B3-4793-8ABE-467F883FAE72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242FA2F5-16E6-479A-AEE2-502A65CA191B}
+	EndGlobalSection
+EndGlobal
